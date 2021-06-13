@@ -1,0 +1,1 @@
+This week we covered operations with layers, blocks and some other computations with GPUs and I/Os.
