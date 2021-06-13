@@ -1,5 +1,5 @@
 # snakesandmachines
-informal study group notes
+This repo contains informal study group notes
 
 All referenced material belongs to their owners.
 
